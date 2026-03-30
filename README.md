@@ -99,8 +99,3 @@ Supports structured interaction for:
 
 This project demonstrates the design and implementation of a structured conversational system in C, combining personality, memory, and interaction to create a functional and extensible chatbot.
 
----
-
-## Resume Line
-
-Developed a console-based AI chatbot in C featuring personality-driven responses and persistent memory using file handling, enabling interactive and stateful user communication.
